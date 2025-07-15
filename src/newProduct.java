@@ -8,7 +8,7 @@ import ConnectionPackage.ConnectionProvider;
 import java.sql.*;
 /**
  *
- * @author Shantanu
+ * @author Om
  */
 public class newProduct extends javax.swing.JFrame {
 

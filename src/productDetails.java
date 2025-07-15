@@ -11,7 +11,7 @@ import java.awt.*;
 
 /**
  *
- * @author Shantanu
+ * @author Om
  */
 public class productDetails extends javax.swing.JFrame {
 

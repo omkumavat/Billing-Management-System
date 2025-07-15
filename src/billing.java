@@ -22,7 +22,7 @@ import static java.lang.Integer.parseInt;
 
 /**
  *
- * @author Shantanu
+ * @author Om
  */
 public class billing extends javax.swing.JFrame {
 

@@ -5,7 +5,7 @@
 
 /**
  *
- * @author Shantanu
+ * @author Om
  */
 public class BillingManagementSystem extends javax.swing.JFrame {
 

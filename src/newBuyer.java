@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Shantanu
+ * @author Om
  */
 public class newBuyer extends javax.swing.JFrame {
 
